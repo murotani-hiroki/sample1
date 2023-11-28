@@ -1,7 +1,5 @@
 This is line1.
 This is line2.
-This is line3 update.
-This is line4.update.
-This is line5.update..
-This is line6.update...
-This is line7.update....
+This is line3. update
+This is line4.
+This is line5. update
